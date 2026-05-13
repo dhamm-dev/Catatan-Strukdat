@@ -74,15 +74,6 @@ Catatan Strukdat/
 
 ---
 
-## 🚀 Cara Pakai
-
-1. Buka `index.html` langsung di browser — **tidak perlu server**.
-2. Ganti **Nama** dan **NIM** di `index.html` pada bagian `<header>`.
-3. Ganti `assets/profile.jpg` dengan foto profilmu.
-4. Isi `href="#"` pada setiap `<a>` dengan link Google Drive / cloud materi.
-
----
-
 ## 🎨 Kustomisasi Warna
 
 Edit variabel CSS di `style.css` pada blok `:root`:
