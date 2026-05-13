@@ -1,6 +1,27 @@
+<div align="center">
+
 # 📚 Catatan Struktur Data
 
-Arsip catatan, modul, tugas, dan UTS mata kuliah **Struktur Data** berbasis HTML & CSS statis dengan tampilan dark minimalis.
+*Arsip digital catatan, modul, tugas & UTS — D4 Teknik Informatika*
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Status](https://img.shields.io/badge/status-aktif-7c6af7?style=for-the-badge)
+![Modul](https://img.shields.io/badge/modul-9%20topik-success?style=for-the-badge)
+
+</div>
+
+---
+
+## 👤 Profil Mahasiswa
+
+| | |
+|---|---|
+| **Nama** | Idham Kholid Abidin |
+| **NIM** | 250411100013 |
+| **Program Studi** | Teknik Informatika |
+| **E-mail** | 250411100013@student.trunojoyo.ac.id |
+| **Mata Kuliah** | Struktur Data |
 
 ---
 
@@ -8,41 +29,66 @@ Arsip catatan, modul, tugas, dan UTS mata kuliah **Struktur Data** berbasis HTML
 
 ```
 Catatan Strukdat/
-├── index.html       # Halaman utama
-├── style.css        # Stylesheet (dark theme)
+├── index.html          # Halaman utama
+├── style.css           # Stylesheet (dark theme)
 ├── assets/
-│   └── profile.png  # Foto profil
-└── README.md        # Dokumentasi ini
+│   └── profile.jpg     # Foto profil
+├── MODUL 1/            # Stack, Queue & Deque
+├── MODUL 2/            # Infix, Prefix & Postfix Expressions
+├── MODUL 3/            # Stack & Queue
+├── MODUL 4/            # Tree & Binary Tree
+├── MODUL 5/            # Binary Search Tree (BST)
+├── MODUL 6/            # Graph
+├── MODUL 7/            # Hashing & Hash Table
+├── MODUL 8/            # Sorting Algorithm
+├── MODUL 9/            # Searching Algorithm
+└── README.md           # Dokumentasi ini
 ```
 
 ---
 
-## ✨ Fitur
+## 📋 Daftar Modul
 
-- **Dark theme** minimalis dengan aksen ungu
-- **Header sticky** dengan foto profil, nama, dan NIM
-- **9 card modul** — masing-masing berisi link materi & catatan
-- **Card Tugas** — link tugas-tugas kuliah
-- **Card UTS** — link soal & pembahasan UTS
-- Responsive untuk tampilan mobile
+| No | Topik | Status |
+|:---:|---|:---:|
+| `01` | Stack, Queue & Deque | ✅ Ada materi |
+| `02` | Infix, Prefix & Postfix Expressions | 🔗 Link pending |
+| `03` | Stack & Queue | 🔗 Link pending |
+| `04` | Tree & Binary Tree | 🔗 Link pending |
+| `05` | Binary Search Tree (BST) | 🔗 Link pending |
+| `06` | Graph | 🔗 Link pending |
+| `07` | Hashing & Hash Table | 🔗 Link pending |
+| `08` | Sorting Algorithm | 🔗 Link pending |
+| `09` | Searching Algorithm | 🔗 Link pending |
+
+---
+
+## ✨ Fitur Halaman
+
+- 🌑 **Dark theme** minimalis dengan aksen ungu `#7c6af7`
+- 📌 **Header sticky** dengan foto profil, nama, dan NIM
+- 🃏 **9 card modul** — masing-masing berisi link materi & catatan
+- 📝 **Card Tugas** — kumpulan link tugas kuliah
+- 📄 **Card UTS** — soal & pembahasan ujian tengah semester
+- 📱 **Responsive** — tampilan optimal di mobile maupun desktop
 
 ---
 
 ## 🚀 Cara Pakai
 
-1. Buka `index.html` di browser mana saja (tidak perlu server).
-2. Ganti **Nama Lengkap** dan **NIM** di `index.html` (bagian `header`).
-3. Ganti `assets/profile.png` dengan foto profilmu sendiri.
-4. Isi atribut `href="#"` pada setiap `<a>` dengan link Google Drive / cloud storage materi yang sesuai.
+1. Buka `index.html` langsung di browser — **tidak perlu server**.
+2. Ganti **Nama** dan **NIM** di `index.html` pada bagian `<header>`.
+3. Ganti `assets/profile.jpg` dengan foto profilmu.
+4. Isi `href="#"` pada setiap `<a>` dengan link Google Drive / cloud materi.
 
 ---
 
 ## 🎨 Kustomisasi Warna
 
-Edit variabel di `style.css` bagian `:root`:
+Edit variabel CSS di `style.css` pada blok `:root`:
 
 | Variabel | Default | Fungsi |
-|---|---|---|
+|---|:---:|---|
 | `--accent` | `#7c6af7` | Warna aksen utama (ungu) |
 | `--bg-primary` | `#0d0d0f` | Background halaman |
 | `--bg-card` | `#1a1a20` | Background card |
@@ -50,20 +96,8 @@ Edit variabel di `style.css` bagian `:root`:
 
 ---
 
-## 📋 Daftar Modul
+<div align="center">
 
-| No | Topik |
-|---|---|
-| 01 | Pengantar Struktur Data |
-| 02 | Array & Linked List |
-| 03 | Stack & Queue |
-| 04 | Tree & Binary Tree |
-| 05 | Binary Search Tree (BST) |
-| 06 | Graph |
-| 07 | Hashing & Hash Table |
-| 08 | Sorting Algorithm |
-| 09 | Searching Algorithm |
+*Dibuat untuk keperluan akademik — Mata Kuliah Struktur Data © 2025*
 
----
-
-> Dibuat untuk keperluan akademik — Mata Kuliah Struktur Data
+</div>
