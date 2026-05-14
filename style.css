@@ -7,34 +7,36 @@
 
 /* ---------- CSS Variables ---------- */
 :root {
-  --bg-primary:    #0d0d0f;
-  --bg-secondary:  #131317;
-  --bg-card:       #1a1a20;
+  --bg-primary: #0d0d0f;
+  --bg-secondary: #131317;
+  --bg-card: #1a1a20;
   --bg-card-hover: #1f1f27;
-  --border:        #2a2a35;
-  --border-hover:  #3d3d52;
+  --border: #2a2a35;
+  --border-hover: #3d3d52;
 
-  --accent:        #7c6af7;
-  --accent-dim:    #4a3fb5;
-  --accent-glow:   rgba(124, 106, 247, 0.15);
+  --accent: #7c6af7;
+  --accent-dim: #4a3fb5;
+  --accent-glow: rgba(124, 106, 247, 0.15);
 
-  --text-primary:  #e8e8f0;
-  --text-secondary:#8888a4;
-  --text-muted:    #55556a;
+  --text-primary: #e8e8f0;
+  --text-secondary: #8888a4;
+  --text-muted: #55556a;
 
-  --tag-modul:     rgba(124, 106, 247, 0.12);
-  --tag-tugas:     rgba(251, 146, 60, 0.12);
-  --tag-uts:       rgba(52, 211, 153, 0.12);
+  --tag-modul: rgba(124, 106, 247, 0.12);
+  --tag-tugas: rgba(251, 146, 60, 0.12);
+  --tag-uts: rgba(52, 211, 153, 0.12);
 
-  --radius-sm:     8px;
-  --radius-md:     14px;
-  --radius-lg:     20px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
 
-  --transition:    0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* ---------- Reset & Base ---------- */
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -260,7 +262,6 @@ main {
   font-weight: 600;
   color: var(--text-primary);
   line-height: 1.4;
-  flex: 1;
 }
 
 /* Card Links */
@@ -342,7 +343,7 @@ main {
 }
 
 .card.card-tugas:hover {
-  box-shadow: 0 8px 32px rgba(0,0,0,0.35), 0 0 0 1px rgba(251, 146, 60, 0.08);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(251, 146, 60, 0.08);
 }
 
 .card.card-tugas .card-link:hover {
@@ -357,7 +358,7 @@ main {
 }
 
 .card.card-uts:hover {
-  box-shadow: 0 8px 32px rgba(0,0,0,0.35), 0 0 0 1px rgba(52, 211, 153, 0.08);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(52, 211, 153, 0.08);
 }
 
 .card.card-uts .card-link:hover {
@@ -391,13 +392,16 @@ footer span {
 ::-webkit-scrollbar {
   width: 6px;
 }
+
 ::-webkit-scrollbar-track {
   background: var(--bg-primary);
 }
+
 ::-webkit-scrollbar-thumb {
   background: var(--border-hover);
   border-radius: 4px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
   background: var(--text-muted);
 }

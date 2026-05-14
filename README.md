@@ -33,15 +33,14 @@ Catatan Strukdat/
 ├── style.css           # Stylesheet (dark theme)
 ├── assets/
 │   └── profile.jpg     # Foto profil
-├── MODUL 1/            # Stack, Queue & Deque
-├── MODUL 2/            # Infix, Prefix & Postfix Expressions
-├── MODUL 3/            # Stack & Queue
-├── MODUL 4/            # Tree & Binary Tree
-├── MODUL 5/            # Binary Search Tree (BST)
-├── MODUL 6/            # Graph
-├── MODUL 7/            # Hashing & Hash Table
-├── MODUL 8/            # Sorting Algorithm
-├── MODUL 9/            # Searching Algorithm
+├── MODUL 2/            # Stack, Queue & Deque
+├── MODUL 3/            # Sorting: Bubble, Selection, Insertion
+├── MODUL 4/            # Hashing & Searching
+├── MODUL 5/            # Rekursif
+├── MODUL 6/            # Sorting: Counting, Merge, Quick
+├── MODUL 7/            # Linked List
+├── MODUL 8/            # Tree
+├── MODUL 9/            # Graph
 └── README.md           # Dokumentasi ini
 ```
 
@@ -51,15 +50,14 @@ Catatan Strukdat/
 
 | No | Topik | Status |
 |:---:|---|:---:|
-| `01` | Stack, Queue & Deque | ✅ Ada materi |
-| `02` | Infix, Prefix & Postfix Expressions | 🔗 Link pending |
-| `03` | Stack & Queue | 🔗 Link pending |
-| `04` | Tree & Binary Tree | 🔗 Link pending |
-| `05` | Binary Search Tree (BST) | 🔗 Link pending |
-| `06` | Graph | 🔗 Link pending |
-| `07` | Hashing & Hash Table | 🔗 Link pending |
-| `08` | Sorting Algorithm | 🔗 Link pending |
-| `09` | Searching Algorithm | 🔗 Link pending |
+| `02` | Stack, Queue & Deque | ✅ Ada materi |
+| `03` | Sorting: Bubble, Selection, Insertion | ✅ Ada materi |
+| `04` | Hashing & Searching | ✅ Ada materi |
+| `05` | Rekursif | ✅ Ada materi |
+| `06` | Sorting: Counting, Merge, Quick | ✅ Ada materi |
+| `07` | Linked List | 🔗 Link pending |
+| `08` | Tree | 🔗 Link pending |
+| `09` | Graph | 🔗 Link pending |
 
 ---
 
@@ -67,7 +65,7 @@ Catatan Strukdat/
 
 - 🌑 **Dark theme** minimalis dengan aksen ungu `#7c6af7`
 - 📌 **Header sticky** dengan foto profil, nama, dan NIM
-- 🃏 **9 card modul** — masing-masing berisi link materi & catatan
+- 🃏 **8 card modul** — masing-masing berisi link materi & catatan
 - 📝 **Card Tugas** — kumpulan link tugas kuliah
 - 📄 **Card UTS** — soal & pembahasan ujian tengah semester
 - 📱 **Responsive** — tampilan optimal di mobile maupun desktop
