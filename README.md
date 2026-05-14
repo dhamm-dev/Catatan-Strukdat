@@ -34,12 +34,26 @@ Catatan Strukdat/
 ├── assets/
 │   └── profile.jpg     # Foto profil
 ├── MODUL 2/            # Stack, Queue & Deque
+│   ├── Stack.html
+│   └── Queue.html
 ├── MODUL 3/            # Sorting: Bubble, Selection, Insertion
+│   ├── Bubble Sort.html
+│   ├── Selection Sort.html
+│   └── Insertion Sort.html
 ├── MODUL 4/            # Hashing & Searching
+│   ├── Hashing.html
+│   └── Searching.html
 ├── MODUL 5/            # Rekursif
+│   └── Rekursif.html
 ├── MODUL 6/            # Sorting: Counting, Merge, Quick
+│   ├── Counting.html
+│   ├── MergeSort.html
+│   └── QuickSort.html
 ├── MODUL 7/            # Linked List
-├── MODUL 8/            # Tree
+│   └── LinkedList.html
+├── MODUL 8/            # Binary Tree
+│   ├── Binnary Tree.html
+│   └── ParsingBinnaryTree.html
 ├── MODUL 9/            # Graph
 └── README.md           # Dokumentasi ini
 ```
@@ -55,8 +69,8 @@ Catatan Strukdat/
 | `04` | Hashing & Searching | ✅ Ada materi |
 | `05` | Rekursif | ✅ Ada materi |
 | `06` | Sorting: Counting, Merge, Quick | ✅ Ada materi |
-| `07` | Linked List | 🔗 Link pending |
-| `08` | Tree | 🔗 Link pending |
+| `07` | Linked List | ✅ Ada materi |
+| `08` | Binary Tree | ✅ Ada materi |
 | `09` | Graph | 🔗 Link pending |
 
 ---
