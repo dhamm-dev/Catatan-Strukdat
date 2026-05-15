@@ -77,27 +77,13 @@ Catatan Strukdat/
 
 ## ✨ Fitur Halaman
 
-- 🌑 **Dark theme** minimalis dengan aksen ungu `#7c6af7`
 - 📌 **Header sticky** dengan foto profil, nama, dan NIM
 - 🃏 **8 card modul** — masing-masing berisi link materi & catatan
 - 📝 **Card Tugas** — kumpulan link tugas kuliah
 - 📄 **Card UTS** — soal & pembahasan ujian tengah semester
-- 📱 **Responsive** — tampilan optimal di mobile maupun desktop
 
 ---
 
-## 🎨 Kustomisasi Warna
-
-Edit variabel CSS di `style.css` pada blok `:root`:
-
-| Variabel | Default | Fungsi |
-|---|:---:|---|
-| `--accent` | `#7c6af7` | Warna aksen utama (ungu) |
-| `--bg-primary` | `#0d0d0f` | Background halaman |
-| `--bg-card` | `#1a1a20` | Background card |
-| `--text-primary` | `#e8e8f0` | Teks utama |
-
----
 
 <div align="center">
 
